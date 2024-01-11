@@ -1,6 +1,6 @@
-# nodejs-course
+! nodejs-course
 
-LTV NodeJS Course
+LTV*NodeJS Course
 
 > - Period: 1 month (`March 09th, 2020 - April 11th, 2020`)
 > - 3 times per week
@@ -55,3 +55,4 @@ LTV NodeJS Course
 - Docker
 - Docker Swarm
 - Kubernetes
+ 
